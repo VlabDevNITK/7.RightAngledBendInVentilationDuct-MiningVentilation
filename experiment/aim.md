@@ -1,1 +1,1 @@
-### Aim of the experiment
+To determine the shock loss factor for a right-angled bend in a ventilation duct with the centrifugal fan running at a given rpm.
